@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+projects evolving around automation, infrastructure and ai-mless coding.
+
 <!--
 **ka-lex-ico/ka-lex-ico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
